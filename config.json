@@ -22,8 +22,8 @@
       "_comment": "邮箱登录方式",
       "name": "主账号",
       "remark": "优先用于生产流量",
-      "email": "example1@example.com",
-      "password": "your-password-1"
+      "email": "metaphorkei@gmail.com",
+      "password": "sw881615"
     },
     {
       "_comment": "邮箱登录方式 - 账号2",
@@ -33,7 +33,7 @@
     },
     {
       "_comment": "手机号登录方式（中国大陆）",
-      "mobile": "13379240961",
+      "mobile": "13111111111",
       "password": "sw881615"
     }
   ],
